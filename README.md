@@ -78,21 +78,12 @@ The app is trained using the **Telco Customer Churn Dataset** from [IBM Sample D
 ---
 
 ## 👨‍💻 Author
-**Mirza Yasir Abdullah Baig**  
+**Nadeem Gohar**  
 
-- 🌐 [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-- 💻 [GitHub](https://github.com/mirzayasirabdullahbaig07)  
+- 💼 [LinkedIn](www.linkedin.com/in/nadeem-gohar-0708382b0)  
+- 💻 [GitHub](https://github.com/Nadeemgohar)  
 
----
 
-## ❤️ Acknowledgements
-- [Telco Customer Churn Dataset (IBM)](https://www.kaggle.com/blastchar/telco-customer-churn)  
-- [Streamlit Documentation](https://docs.streamlit.io/)  
-- [Scikit-learn](https://scikit-learn.org/stable/)  
-- [XGBoost](https://xgboost.readthedocs.io/)  
-
----
 
 ## ⚠️ Disclaimer
 This project is for **educational purposes only** and should **NOT** be used for real-world business decisions without further validation.  
