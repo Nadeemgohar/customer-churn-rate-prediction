@@ -5,7 +5,7 @@ An **AI-powered web application** built with **Streamlit** that predicts whether
 ---
 
 ## 🚀 Demo
-🔗 [Live App on Streamlit](https://customerchurnprediction07.streamlit.app/)
+🔗 [customer-churn-rate-prediction-k8esatqjcpju9ey3bdvnjw.streamlit.app)
 
 
 ## 🚀 Short Video Demo
