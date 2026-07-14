@@ -9,7 +9,8 @@ An **AI-powered web application** built with **Streamlit** that predicts whether
 
 
 ## 🚀 Short Video Demo
-[https://github.com/user-attachments/assets/889f0cba-29fe-4238-8ef6-60762f2dfda0](https://github.com/user-attachments/assets/889f0cba-29fe-4238-8ef6-60762f2dfda0)
+[Screencast from 2026-07-14 05-30-40.webm](https://github.com/user-attachments/assets/6efc0502-c856-415b-9efa-a3f2ebd36f5d)
+
 
 ---
 
