@@ -1,4 +1,4 @@
-# 📉 Customer Churn Prediction Application
+# 📉 Customer Churn Prediction App
 
 An **AI-powered web application** built with **Streamlit** that predicts whether a telecom customer will **churn** (leave the company) or **stay**, based on their profile and service usage details.
 
