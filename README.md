@@ -77,7 +77,7 @@ The app is trained using the **Telco Customer Churn Dataset** from [IBM Sample D
 
 ---
 
-## 👨‍💻 Author
+##  👨‍💻 Author
 **Nadeem Gohar**  
 
 - 💼 [LinkedIn](www.linkedin.com/in/nadeem-gohar-0708382b0)  
