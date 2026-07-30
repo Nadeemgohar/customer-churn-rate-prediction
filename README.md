@@ -62,21 +62,6 @@ The app is trained using the **Telco Customer Churn Dataset** from [IBM Sample D
 
 ---
 
-## 📸 Screenshots
-### 🏠 Home Page
-<img width="1910" height="860" alt="image" src="https://github.com/user-attachments/assets/934fea71-f947-409c-9d23-2dc4f0f91315" />
-
-
-### 🧑 Single Customer Prediction
-<img width="1910" height="860" alt="image" src="https://github.com/user-attachments/assets/3eab121a-b7fb-4a18-9f7e-6f6335bdca59" />
-
-
-### 📄 Batch CSV Prediction
-<img width="1910" height="860" alt="image" src="https://github.com/user-attachments/assets/cfd84d2c-3826-4eb4-bdf8-99929a1ac1db" />
-
-
----
-
 ##  👨‍💻 Author
 **Nadeem Gohar**  
 
